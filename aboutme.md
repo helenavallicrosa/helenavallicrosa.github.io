@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a terrestrial ecologist researcher interested in linking carbon cycle with plant elemental composition, biogeochemical cycles between atmosphere, soil and vegetation and its response to global change scenario. My approaches are from local scale to global scale through both field experiments and computational science.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I'm a postdoc at the Terrer Lab, in the department of Civil and Environmental Engineering at the Massachusetts Institute of Technology (MIT).
 
-What else do you need?
+I defended my PhD in Terrestrial Ecology in November of 2021, under the supervision of Josep Peñuelas and Jordi Sardans at CREAF, Universitat Autònoma de Barcelona, Spain.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to reach out in Catalan, Spanish, English or Portuguese.
