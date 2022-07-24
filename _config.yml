@@ -24,6 +24,8 @@ navbar-links:
   Publications: "publications"
   Outreach: "outreach"
   #Lectures:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
   
   
 ################
