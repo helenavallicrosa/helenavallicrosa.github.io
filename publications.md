@@ -1,8 +1,7 @@
 ---
-title:Publications
+layout: page
+title: Publications
 ---
-
-## PUBLICATIONS
 
 **Vallicrosa, H.** (2022) [Beyond nitrogen and phosphorus.](https://www.nature.com/articles/s41559-022-01788-x#citeas) Nature Ecology and Evolution.
 
