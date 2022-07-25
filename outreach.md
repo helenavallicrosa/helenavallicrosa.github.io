@@ -1,6 +1,6 @@
 ---
 title: Outreach
-subtitle: Pieces of science I shared
+subtitle: Sharing science
 ---
 
 Being a scientist is about creating new science but also about explaining it. 
