@@ -5,8 +5,8 @@ subtitle: Pieces of science I shared
 
 Being a scientist is about creating new science but also about explaining it. 
 As a complement to my research activity I'm commited to spread science and make it reachable and available through different cultural and social backgrounds.
-In order to mitigate the global change we are facing all the inhabitants of the Earth deserve clear and transparent information as well as the oportunity to
-connect to science. Science belong to all of us so I believe is my responsability to take some time and explain it in plain words. We cannot afford to loose
+In order to mitigate the global change we are facing, all the inhabitants of the Earth deserve clear and transparent information as well as the oportunity to
+connect to science. Science belong to all of us so is also our responsability to take some time and explain it in plain words. We cannot afford to loose
 effort on the way, we need from all of us.
 
 
