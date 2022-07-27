@@ -73,7 +73,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: "https://orcid.org/0000-0002-5860-3096"
+orcid: "https://orcid.org/0000-0002-5860-3096"
 google-scholar: "https://scholar.google.es/citations?user=0R6mROIAAAAJ&hl=ca"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
@@ -92,7 +92,7 @@ share-links-active:
   twitter: true
   facebook: false
   linkedin: false
-  ORCID: true
+  orcid: true
   vk: false
 
 # How to display the link to your website in the footer
