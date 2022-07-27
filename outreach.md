@@ -2,7 +2,7 @@
 title: Outreach
 subtitle: Sharing science
 ---
-<style>body {text-align: right}</style>
+<style>body {text-align: justify}</style>
 
 Being a scientist is about creating new science but also about explaining it. 
 As a complement to my research activity I'm commited to spread science and make it reachable and available through different cultural and social backgrounds.
