@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**Vallicrosa, H.** (2022) [Beyond nitrogen and phosphorus.](https://www.nature.com/articles/s41559-022-01788-x#citeas) Nature Ecology and Evolution.
+**Vallicrosa, H.** (2022) [Beyond nitrogen and phosphorus.](https://www.nature.com/articles/s41559-022-01788-x#citeas) Nature Ecology and Evolution, 6, 1056-1057.
 
 **Vallicrosa, H.**, Sardans, J., Maspons, J., & Peñuelas, J. (2022)
 [Global distribution and drivers of forest biome foliar nitrogen to phosphorus ratios (N:P).](https://doi.org/10.1111/geb.13457) Global Ecology and Biogeography, 31, 861– 871.
