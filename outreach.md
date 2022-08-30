@@ -41,6 +41,9 @@ cultural background and physical capabilities.
 
 WORKSHOPS
 
+[Climate Action Through Education (CATE)](https://ceepr.mit.edu/cate/)
+An exciting synery of high school teachers and MIT scientist to implement climate change curricula to Massachusetts high schools. The project's pilot implementation starts the fall of 2022.
+
 [Escolab](https://escolab.bcn.cat/en)<br>
 I was approaching environmental sciences and climate change to 12-14 year old students. We performed 4h workshops about how environmental scientists take samples 
 in order to answer ecological questions.
