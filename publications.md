@@ -10,6 +10,9 @@ title: Publications
  
 **Vallicrosa, H.**, Sardans, J., Maspons, J., Zuccarini, P., Fernández-Martínez, M., Bauters, M., Goll, D.S., Ciais, P., Obersteiner, M., Janssens, I.A., Peñuelas, J. (2022)
 [Global maps and factors driving forest foliar elemental composition: the importance of evolutionary history.](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17771) New Phytologist, Jan; 233(1):169-181.
+
+Verryckt, L. T., Vicca, S., Van Langenhove, L., Stahl, C., Asensio, D., Urbina, I., Ogaya, R., Llusià, J., Grau, O., Peguero, G., Gargallo-Garriga, A., Courtois, E. A., Margalef, O., Portillo-Estrada, M., Ciais, P., Obersteiner, M., Fuchslueger, L., Lugli, L. F., Fernandez-Garberí, P.-R., **Vallicrosa, H.**, Verlinden, M., Ranits, C., Vermeir, P., Coste, S., Verbruggen, E., Bréchet, L., Sardans, J., Chave, J., Peñuelas, J., and Janssens, I. A. (2022)
+[Vertical profiles of leaf photosynthesis and leaf traits and soil nutrients in two tropical rainforests in French Guiana before and after a 3-year nitrogen and phosphorus addition experiment](https://essd.copernicus.org/articles/14/5/2022/#&gid=1&pid=1) Earth Syst. Sci. Data, 14, 5–18.
  
 Van Langenhove, L., Depaepe, T., Verryckt, L. T., **Vallicrosa, H.**, Fuchslueger, L., Lugli, L. F., et al. (2021)
 [Impact of nutrient additions on free-living nitrogen fixation in litter and soil of two French-Guianese lowland tropical forests.](https://doi.org/10.1029/2020JG006023 ) Journal of Geophysical Research: Biogeosciences, 126, e2020JG006023.
