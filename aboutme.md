@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 ---
 <style>body {text-align: justify}</style>
 
@@ -12,4 +12,4 @@ Currently I'm a postdoc at the [Terrer Lab](https://terrerlab.mit.edu/), in the 
 
 I defended my PhD in Terrestrial Ecology on November 2021, under the supervision of Josep Peñuelas and Jordi Sardans at CREAF, Universitat Autònoma de Barcelona, Spain.
 
-Feel free to reach out in Catalan, Spanish, English or Portuguese.
+Feel free to reach out to talk about research, scientific outreach or cool activities in Catalan, Spanish, English or Portuguese.
