@@ -23,6 +23,11 @@ navbar-links:
   About: "aboutme"
   Publications: "publications"
   Outreach: "outreach"
+  #Materials :
+    #- Maps
+    #- Presentations
+    #- Data
+    #- Lectures
   #Lectures:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
@@ -128,7 +133,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#64a36f" #EAEAEA
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#fcfefe" #FFFFFF
