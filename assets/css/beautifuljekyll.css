@@ -47,7 +47,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#698474" }};
+  color: {{ site.link-col | default: "#44554b" }};
 }
 a:hover,
 a:focus {
@@ -387,7 +387,7 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    background-width: 1.2rem;
+    background-size: 1.200rem;
     background-attachment: fixed;
   {% endif %}
 }
