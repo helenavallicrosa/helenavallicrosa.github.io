@@ -137,7 +137,7 @@ navbar-col: "#c5d5c5" #EAEAEA
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#e3e0cc" #FFFFFF
-text-col: "#9fa9a3"
+text-col: "#3b3a30"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
