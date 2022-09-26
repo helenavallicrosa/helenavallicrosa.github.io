@@ -387,7 +387,7 @@ footer {
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
-    background-size: 80rem;
+    background-size: 78rem;
     background-attachment: fixed;
   {% endif %}
 }
