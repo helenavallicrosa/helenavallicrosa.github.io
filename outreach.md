@@ -8,6 +8,10 @@ As a complement to my research activity I'm commited to spread science and make 
 In order to mitigate the global change we are facing, all the inhabitants of the Earth deserve clear and transparent information as well as the oportunity to
 connect to science. Science belong to all of us so is also our responsability to take some time to explain it in plain words.
 
+TEACHING
+
+Teaching assitant at the MIT graduate course "Carbon cycle and Ecosystem Ecology". Spring semester 2022 and 2023.
+Lecture about the role of nutrients in the carbon cycle, R programming, and using R to solve ecological problems (AI models, GIS, statistics, data curation...)
 
 TALKS
 
