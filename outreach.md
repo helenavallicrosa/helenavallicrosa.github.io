@@ -10,7 +10,7 @@ connect to science. Science belong to all of us so is also our responsability to
 
 TEACHING
 
-Teaching assitant at the MIT graduate course "Carbon cycle and Ecosystem Ecology". Spring semester 2022 and 2023.
+Teaching assitant at the MIT graduate course "Carbon cycle and Ecosystem Ecology". Spring semester 2022 and 2023.<br>
 Lecture about the role of nutrients in the carbon cycle, R programming, and using R to solve ecological problems (AI models, GIS, statistics, data curation...)
 
 TALKS
