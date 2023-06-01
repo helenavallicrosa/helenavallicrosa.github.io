@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-**Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., Sardans, J., Ramirez-Rojas, I., Verbruggen, E., Grau, O., Bréchet, L., Peguero, G., Langenhove, L. V., Verryckt, L. T., Terrer, C., Llusià, J., Ogaya, R., Márquez, L., Roc-Fernández, P., Janssens, I., & Peñuelas, J. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.4049). Ecology e4049.
+**Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., Sardans, J., Ramirez-Rojas, I., Verbruggen, E., Grau, O., Bréchet, L., Peguero, G., Langenhove, L. V., Verryckt, L. T., Terrer, C., Llusià, J., Ogaya, R., Márquez, L., Roc-Fernández, P., Janssens, I., & Peñuelas, J. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://doi.org/10.1002/ecy.4049). Ecology 104(6): e4049.
 
 **Vallicrosa, H.** (2022) [Beyond nitrogen and phosphorus.](https://www.nature.com/articles/s41559-022-01788-x#citeas) Nature Ecology and Evolution, 6, 1056-1057.
 
