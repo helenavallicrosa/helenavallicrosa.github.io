@@ -14,6 +14,7 @@ Teaching assistant at the MIT graduate course "Carbon Cycle and Ecosystem Ecolog
 Lecture about the role of nutrients in the carbon cycle, R programming, and using R to solve ecological problems (AI models, GIS, statistics, data curation...)
 
 PRESS
+
 [Postdoc spotlight pride month - MIT CEE](https://cee.mit.edu/helena-vallicrosa-postdoc-spotlight-pride-month/)<br>
 Reflection on being part of LGBTQIA+ community
 
