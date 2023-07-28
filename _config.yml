@@ -22,8 +22,9 @@ author: Helena Vallicrosa
 navbar-links:
   About: "aboutme"
   Publications: "publications"
+  #Data: "data"
   Teaching: "teaching"
-  Sharing science: "outreach"
+  Outreach: "outreach"
   #Materials :
     #- Maps
     #- Presentations
@@ -60,7 +61,7 @@ social-network-links:
   email: "helenavp@mit.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  #github: daattali
+  github: helenavallicrosa
   twitter: Helena_Valli
   #patreon: DeanAttali
   #youtube: c/daattali
@@ -79,7 +80,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-orcid: "https://orcid.org/0000-0002-5860-3096"
+orcid: "0000-0002-5860-3096"
 google-scholar: "https://scholar.google.es/citations?user=0R6mROIAAAAJ&hl=ca"
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
