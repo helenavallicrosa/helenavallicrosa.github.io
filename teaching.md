@@ -16,8 +16,8 @@ PRIOR KNOWLEDGE: The course targets students interested in earth systems and env
 CONTENT and INTENDED LEARNING OUTCOMES
 
 1.	Introduction to R – Helena
-    a.	Intro, data types, vectors, matrices, data frames, and lists
-    b.	Import and export data, play with data, basic statistic models.
+    a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
+    b.	Import and export data, play with data, basic statistic models.<br/>
     c.	Loops, functions, good manners, and tricks<br/>
 <br/>
 Describe what R is and its characteristics, the different types of data, and data structures.
@@ -26,29 +26,30 @@ Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
 <br/>
 3.	Modeling the C cycle – Helena <br/>
-    a.	Introduction to land systems modeling
-    b.	One-box model
-    c.	Two-box model
-  	
+    a.	Introduction to land systems modeling<br/>
+    b.	One-box model<br/>
+    c.	Two-box model<br/>
+<br/>  	
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
-   
+<br/>   
 3.	Geographical Information Systems (GIS) – Helena <br/>
-    a.	Lecture with basic concepts
-    b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick
-    c.	Extract information from maps using spatial data points
+    a.	Lecture with basic concepts<br/>
+    b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick<br/>
+    c.	Extract information from maps using spatial data points<br/>
 <br/>
 Explain the differences between raster and vectorial maps, as well as the importance of the resolution and projection concepts.
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
 Use R to create stacks and crop maps.
 <br/>
 4.	Metanalysis - Cesar <br/>
+<br/>
 5.	Machine learning algorithms – Helena <br/>
-    a.	Introduction
-    b.	Subsets selection
-    c.	Select the best model
-    d.	Model implementation and tunning
-    e.	Visualization and upscaling
+    a.	Introduction<br/>
+    b.	Subsets selection<br/>
+    c.	Select the best model<br/>
+    d.	Model implementation and tunning<br/>
+    e.	Visualization and upscaling<br/>
 <br/>
 Discuss the advantages and limitations of machine learning algorithms.
 Create subsets for the train-test-validation and explain why they are necessary.
