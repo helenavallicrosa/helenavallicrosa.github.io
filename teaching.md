@@ -11,21 +11,21 @@ Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environ
 
 DESCRIPTION: These materials were created as the practical section of the course, which also included lectures and paper discussions. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
 
-PRIOR KNOWLEDGE: The course is targeting students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
+PRIOR KNOWLEDGE: The course targets students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
 
 CONTENT and INTENDED LEARNING OUTCOMES
 
 1.	Introduction to R – Helena
     a.	Intro, data types, vectors, matrices, data frames, and lists
     b.	Import and export data, play with data, basic statistic models.
-    c.	Loops, functions, good manners, and tricks
-
+    c.	Loops, functions, good manners, and tricks<br/>
+<br/>
 Describe what R is and its characteristics, the different types of data, and data structures.
-Be able to use R to load and store data and use basic functions such as “subset”, “unique”, ”hist”, ”colnames”, ”order” or ”cbind”.
+Be able to use R to load and store data and use basic functions such as “subset”, “unique”, "hist”, "colnames”, "order” or "cbind”.
 Create and interpret basic linear models.
-Formulate simple loops and functions and familiar yourself with good practices to maintain a tidy workflow.
-
-2.	Modeling the C cycle – Helena
+Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
+<br/>
+3.	Modeling the C cycle – Helena <br/>
     a.	Introduction to land systems modeling
     b.	One-box model
     c.	Two-box model
@@ -33,28 +33,28 @@ Formulate simple loops and functions and familiar yourself with good practices t
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
    
-3.	Geographical Information Systems (GIS) – Helena
+3.	Geographical Information Systems (GIS) – Helena <br/>
     a.	Lecture with basic concepts
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick
     c.	Extract information from maps using spatial data points
-
+<br/>
 Explain the differences between raster and vectorial maps, as well as the importance of the resolution and projection concepts.
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
 Use R to create stacks and crop maps.
-
-4.	Metanalysis - Cesar
-5.	Machine learning algorithms – Helena
+<br/>
+4.	Metanalysis - Cesar <br/>
+5.	Machine learning algorithms – Helena <br/>
     a.	Introduction
     b.	Subsets selection
     c.	Select the best model
     d.	Model implementation and tunning
     e.	Visualization and upscaling
-
+<br/>
 Discuss the advantages and limitations of machine learning algorithms.
 Create subsets for the train-test-validation and explain why they are necessary.
 Choose the best machine learning model based on your data.
 Tune, display, and understand the model.
-
+<br/>
 6.	Final project, summary, and conclusion
 
 
