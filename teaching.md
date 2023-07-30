@@ -15,15 +15,16 @@ PRIOR KNOWLEDGE: The course targets students interested in earth systems and env
 
 CONTENT and INTENDED LEARNING OUTCOMES
 
-1.	Introduction to R – Helena
+1.	Introduction to R – Helena<br/>
     a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
-    b.	Import and export data, play with data, basic statistic models.<br/>
+    b.	Import and export data, play with data, and basic statistic models.<br/>
     c.	Loops, functions, good manners, and tricks<br/>
 <br/>
 Describe what R is and its characteristics, the different types of data, and data structures.
 Be able to use R to load and store data and use basic functions such as “subset”, “unique”, "hist”, "colnames”, "order” or "cbind”.
 Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
+
 <br/>
 3.	Modeling the C cycle – Helena <br/>
     a.	Introduction to land systems modeling<br/>
@@ -33,6 +34,7 @@ Formulate simple loops and functions and familiarize yourself with good practice
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
 <br/>   
+
 3.	Geographical Information Systems (GIS) – Helena <br/>
     a.	Lecture with basic concepts<br/>
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick<br/>
@@ -42,6 +44,7 @@ Explain the differences between raster and vectorial maps, as well as the import
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
 Use R to create stacks and crop maps.
 <br/>
+
 4.	Metanalysis - Cesar <br/>
 <br/>
 5.	Machine learning algorithms – Helena <br/>
@@ -56,6 +59,7 @@ Create subsets for the train-test-validation and explain why they are necessary.
 Choose the best machine learning model based on your data.
 Tune, display, and understand the model.
 <br/>
+
 6.	Final project, summary, and conclusion
 
 
