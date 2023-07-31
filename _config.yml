@@ -151,7 +151,7 @@ footer-hover-col: "#698474"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "assets/img/footer%20-%20sujan-sundareswaran.jpg" #roots
+footer-img: "assets/img/footer%20-%20sujan-sundareswaran.jpg" width="150%" height="150%" #roots
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
