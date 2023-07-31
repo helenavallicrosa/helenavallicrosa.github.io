@@ -10,6 +10,7 @@ In this section, I will be sharing the teaching materials I have been creating a
 ## MIT Course 1.845: Terrestrial carbon cycle and ecosystem ecology<br/>
 
 Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.<br/>
+The course included lectures, paper discussions as well and practical sessions. The course targets graduate students interested in earth systems and environmental sciences, willing to acquire basic skills and knowledge about the terrestrial carbon cycle and global ecosystem ecology.
 
 ### Lecture
 
@@ -31,9 +32,7 @@ The [PDF presentation](https://github.com/helenavallicrosa/teaching/blob/main/Le
 
 ### Practical sessions
 
-**DESCRIPTION:** These materials were created as the practical section of the course, which also included lectures and paper discussions. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
-
-**PRIOR KNOWLEDGE:** The course targets students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
+**DESCRIPTION:** Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results. No previous knowledge of programming is required.
 
 **CONTENT and INTENDED LEARNING OUTCOMES**
 
