@@ -7,7 +7,7 @@ In this section, I will be sharing the teaching materials I have been creating a
 
 ---
 
-**MIT Course 1.845: Terrestrial carbon cycle and ecosystem ecology<br/>
+## MIT Course 1.845: Terrestrial carbon cycle and ecosystem ecology<br/>
 
 Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.<br/>
 
@@ -35,7 +35,7 @@ Formulate simple loops and functions and familiarize yourself with good practice
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
    
-**3 -	**[**Geographical Information Systems (GIS) – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/3.%20GIS%20script_Beta.R) <br/>
+**3 -** [**Geographical Information Systems (GIS) – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/3.%20GIS%20script_Beta.R) <br/>
     a.	Lecture with basic concepts<br/>
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick <br/>
     c.	Extract information from maps using spatial data points<br/>
