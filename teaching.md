@@ -5,27 +5,28 @@ title: Teaching
 
 In this section, I will be sharing the teaching materials I have been creating and using during my classes.
 
+---
+
 **Course 1.845: Terrestrial carbon cycle and ecosystem ecology**<br/>
 
 Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.<br/>
 
-DESCRIPTION: These materials were created as the practical section of the course, which also included lectures and paper discussions. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
+**DESCRIPTION:** These materials were created as the practical section of the course, which also included lectures and paper discussions. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
 
-PRIOR KNOWLEDGE: The course targets students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
+**PRIOR KNOWLEDGE:** The course targets students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
 
-CONTENT and INTENDED LEARNING OUTCOMES
+**CONTENT and INTENDED LEARNING OUTCOMES**
 
 1.	Introduction to R – Helena<br/>
     a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
     b.	Import and export data, play with data, and basic statistic models.<br/>
     c.	Loops, functions, good manners, and tricks<br/>
-<br/>
+    
 Describe what R is and its characteristics, the different types of data, and data structures.
 Be able to use R to load and store data and use basic functions such as “subset”, “unique”, "hist”, "colnames”, "order” or "cbind”.
 Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
 
-<br/>
 3.	Modeling the C cycle – Helena <br/>
     a.	Introduction to land systems modeling<br/>
     b.	One-box model<br/>
@@ -34,7 +35,6 @@ Formulate simple loops and functions and familiarize yourself with good practice
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
 <br/>   
-
 3.	Geographical Information Systems (GIS) – Helena <br/>
     a.	Lecture with basic concepts<br/>
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick<br/>
