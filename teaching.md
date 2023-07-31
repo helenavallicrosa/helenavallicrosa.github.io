@@ -38,9 +38,9 @@ The [PDF presentation](https://github.com/helenavallicrosa/teaching/blob/main/Le
 **CONTENT and INTENDED LEARNING OUTCOMES**
 
 **1 -**	[**Introduction to R – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/1.%20Intro%20to%20R.R)<br/>
-    a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
-    b.	Import and export data, play with data, and basic statistic models.<br/>
-    c.	Loops, functions, good manners, and tricks<br/>
+       a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
+       b.	Import and export data, play with data, and basic statistic models.<br/>
+       c.	Loops, functions, good manners, and tricks<br/>
     
 Describe what R is and its characteristics, the different types of data, and data structures.
 Be able to use R to load and store data and use essential functions such as “subset”, “unique”, "hist”, "colnames”, "order” or "cbind”.
@@ -48,17 +48,17 @@ Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
 
 **2 -	Modeling the C cycle – Helena** <br/>
-    a.	[Introduction to land systems modeling](https://github.com/helenavallicrosa/teaching/blob/main/Lecture%20-%20GIS.pdf)<br/>
-    b.	[One-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.%20Cmodel_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
-    c.	[Two-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.1%202-boxes_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
+       a.	[Introduction to land systems modeling](https://github.com/helenavallicrosa/teaching/blob/main/Lecture%20-%20GIS.pdf)<br/>
+       b.	[One-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.%20Cmodel_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
+       c.	[Two-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.1%202-boxes_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
     
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
    
 **3 -** [**Geographical Information Systems (GIS) – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/3.%20GIS%20script_Beta.R) <br/>
-    a.	Lecture with basic concepts<br/>
-    b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick <br/>
-    c.	Extract information from maps using spatial data points<br/>
+       a.	Lecture with basic concepts<br/>
+       b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick <br/>
+       c.	Extract information from maps using spatial data points<br/>
     
 Explain the differences between raster and vectorial maps and the importance of the resolution and projection concepts.
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
@@ -67,11 +67,11 @@ Use R to create stacks and crop maps.
 **4 -	Metanalysis - Cesar** <br/>
 
 **5 -**	[**Machine learning algorithms – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/4.%20ML%20and%20upscaling_Beta.R) <br/>
-    a.	Introduction<br/>
-    b.	Subsets selection<br/>
-    c.	Select the best model<br/>
-    d.	Model implementation and tunning<br/>
-    e.	Visualization and upscaling<br/>
+       a.	Introduction<br/>
+       b.	Subsets selection<br/>
+       c.	Select the best model<br/>
+       d.	Model implementation and tunning<br/>
+       e.	Visualization and upscaling<br/>
     
 Discuss the advantages and limitations of machine learning algorithms.
 Create subsets for the train-test-validation and explain why they are necessary.
