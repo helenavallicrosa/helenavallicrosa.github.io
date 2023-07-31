@@ -15,7 +15,7 @@ Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environ
 
 This lecture emphasizes the role of nutrients as a cofactor of the land C sink as well as an important variable in understanding ecosystem functioning.
 
-** CONTENT AND INTENDED LEARNING OUTCOMES**<br/>
+**CONTENT AND INTENDED LEARNING OUTCOMES**<br/>
 The [PDF presentation](https://github.com/helenavallicrosa/teaching/blob/main/Lecture_Nutrients.pdf) includes:<br/>
 1. From molecules to ecosystems<br/>
    -Explain the importance of nutrients in plants and how they affect biological processes<br/>
