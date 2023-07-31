@@ -27,38 +27,36 @@ Be able to use R to load and store data and use basic functions such as “subse
 Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
 
-3.	Modeling the C cycle – Helena <br/>
+2.	Modeling the C cycle – Helena <br/>
     a.	Introduction to land systems modeling<br/>
     b.	One-box model<br/>
     c.	Two-box model<br/>
-<br/>  	
+    
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
-<br/>   
+   
 3.	Geographical Information Systems (GIS) – Helena <br/>
     a.	Lecture with basic concepts<br/>
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick<br/>
     c.	Extract information from maps using spatial data points<br/>
-<br/>
+    
 Explain the differences between raster and vectorial maps, as well as the importance of the resolution and projection concepts.
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
 Use R to create stacks and crop maps.
-<br/>
 
 4.	Metanalysis - Cesar <br/>
-<br/>
+
 5.	Machine learning algorithms – Helena <br/>
     a.	Introduction<br/>
     b.	Subsets selection<br/>
     c.	Select the best model<br/>
     d.	Model implementation and tunning<br/>
     e.	Visualization and upscaling<br/>
-<br/>
+    
 Discuss the advantages and limitations of machine learning algorithms.
 Create subsets for the train-test-validation and explain why they are necessary.
 Choose the best machine learning model based on your data.
 Tune, display, and understand the model.
-<br/>
 
 6.	Final project, summary, and conclusion
 
