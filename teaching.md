@@ -11,6 +11,26 @@ In this section, I will be sharing the teaching materials I have been creating a
 
 Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.<br/>
 
+### Lecture
+
+This lecture emphasizes the role of nutrients as a cofactor of the land C sink as well as an important variable in understanding ecosystem functioning.
+
+** CONTENT AND INTENDED LEARNING OUTCOMES**<br/>
+The [PDF presentation](https://github.com/helenavallicrosa/teaching/blob/main/Lecture_Nutrients.pdf) includes:<br/>
+1. From molecules to ecosystems<br/>
+   -Explain the importance of nutrients in plants and how they affect biological processes<br/>
+   -Describe the concept of nutrient limitation and nutrient resorption<br/>
+
+2. Global scale patterns<br/>
+   -Describe the biogeochemical cycles of nitrogen and phosphorus<br/>
+   -Enumerate N and P cycle differences and how those translate to a global scale<br/>
+   
+3. Biogeochemical disruption in the Anthropocene<br/>
+   -Describe how humans are affecting biogeochemical cycles and their implications in natural ecosystems<br/>
+   -How N, P, and nutrients in general affect the land C sink<br/>
+
+### Practical sessions
+
 **DESCRIPTION:** These materials were created as the practical section of the course, which also included lectures and paper discussions. Their goal is to provide students with tools and good practices to face data analysis applied to earth sciences. The students will practice those skills by using the provided data and following the process of data curation, data analysis, and interpretation. The students are going to learn the basics of R programming, the highlights of C cycle modeling and modeling in ecology, how to work with maps and geographical information systems, the basics and how to use data synthesis techniques such as metanalysis, and how to use machine learning to upscale the results.
 
 **PRIOR KNOWLEDGE:** The course targets students interested in earth systems and environmental sciences, willing to acquire basic skills and good practices to face, analyze, and interpret data. No previous knowledge of programming is required.
@@ -28,7 +48,7 @@ Create and interpret basic linear models.
 Formulate simple loops and functions and familiarize yourself with good practices to maintain a tidy workflow.
 
 **2 -	Modeling the C cycle – Helena** <br/>
-    a.	Introduction to land systems modeling<br/>
+    a.	[Introduction to land systems modeling](https://github.com/helenavallicrosa/teaching/blob/main/Lecture%20-%20GIS.pdf)<br/>
     b.	[One-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.%20Cmodel_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
     c.	[Two-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.1%202-boxes_Beta.R) Special acknowledge to Prof. Benjamin Stocker<br/>
     
@@ -59,5 +79,8 @@ Choose the best machine learning model based on your data.
 Tune, display, and understand the model.
 
 **6 -	Final project, summary, and conclusion**
+
+
+
 
 
