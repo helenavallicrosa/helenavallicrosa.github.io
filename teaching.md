@@ -17,7 +17,7 @@ Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environ
 
 **CONTENT and INTENDED LEARNING OUTCOMES**
 
-1.	Introduction to R – Helena<br/>
+1.	[Introduction to R – Helena](https://github.com/helenavallicrosa/teaching/blob/main/1.%20Intro%20to%20R.R)<br/>
     a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
     b.	Import and export data, play with data, and basic statistic models.<br/>
     c.	Loops, functions, good manners, and tricks<br/>
@@ -29,13 +29,13 @@ Formulate simple loops and functions and familiarize yourself with good practice
 
 2.	Modeling the C cycle – Helena <br/>
     a.	Introduction to land systems modeling<br/>
-    b.	One-box model<br/>
-    c.	Two-box model<br/>
+    b.	[One-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.%20Cmodel_Beta.R)<br/>
+    c.	[Two-box model](https://github.com/helenavallicrosa/teaching/blob/main/2.1%202-boxes_Beta.R)<br/>
     
 Explain the uses of C modeling and its scientific implications.
 Use a one-box carbon model and a two-box carbon model in R.
    
-3.	Geographical Information Systems (GIS) – Helena <br/>
+3.	[Geographical Information Systems (GIS) – Helena](https://github.com/helenavallicrosa/teaching/blob/main/3.%20GIS%20script_Beta.R) <br/>
     a.	Lecture with basic concepts<br/>
     b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick<br/>
     c.	Extract information from maps using spatial data points<br/>
@@ -46,7 +46,7 @@ Use R to create stacks and crop maps.
 
 4.	Metanalysis - Cesar <br/>
 
-5.	Machine learning algorithms – Helena <br/>
+5.	[Machine learning algorithms – Helena](https://github.com/helenavallicrosa/teaching/blob/main/4.%20ML%20and%20upscaling_Beta.R) <br/>
     a.	Introduction<br/>
     b.	Subsets selection<br/>
     c.	Select the best model<br/>
