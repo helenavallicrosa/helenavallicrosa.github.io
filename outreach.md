@@ -5,7 +5,7 @@ subtitle: Sharing science
 <style>body {text-align: justify}</style>
 
 As a complement to my research and teaching activities, I'm committed to spreading science and making it reachable, available, and hopefully useful through different cultural and social backgrounds.
-In order to mitigate the global change we are facing, all the inhabitants of the Earth deserve clear and transparent information as well as the opportunity to connect to science. Science belongs to all of us so is also our responsibility to take some time to explain it in plain words.
+To mitigate the global change we are facing, all the inhabitants of the Earth deserve clear and transparent information as well as the opportunity to connect to science. Science belongs to all of us so is also our responsibility to take some time to explain it in plain words.
 
 ---
 
@@ -45,7 +45,7 @@ Interview: What is my thesis about? (Catalan). Explaining the basis and implicat
 **VIDEO**
 
 [Ni hi ha ciència sense diversitat](https://www.youtube.com/watch?app=desktop&v=8nn4dMdkvhI)<br>
-No science without diversity (Catalan, Spanish, subtitles in English). Claim for a more diverse science in order to make it representative of all races, genders, 
+No science without diversity (Catalan, Spanish, subtitles in English). Claim for a more diverse science to make it representative of all races, genders, 
 cultural backgrounds, and physical capabilities.
 
 ---
