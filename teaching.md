@@ -3,14 +3,13 @@ title: Teaching
 ---
 <style>body {text-align: justify}</style>
 
-In this section, I will be sharing the teaching materials I have been creating and using during my classes.
+In this section, I will be sharing the teaching materials I have been creating and using during my classes. It can include commented R scripts or slides for presentation.
 
 ---
 
 ## MIT Course 1.845: Terrestrial carbon cycle and ecosystem ecology<br/>
 
-Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology.<br/>
-The course included lectures, paper discussions as well and practical sessions. The course targets graduate students interested in earth systems and environmental sciences, willing to acquire basic skills and knowledge about the terrestrial carbon cycle and global ecosystem ecology.
+Graduate course led by Prof. Cesar Terrer at the Department of Civil and Environmental Engineering, Massachusetts Institute of Technology. The course included lectures, paper discussions as well and practical sessions. The course targets graduate students interested in earth systems and environmental sciences, willing to acquire basic skills and knowledge about the terrestrial carbon cycle and global ecosystem ecology.
 
 ### Lecture
 
