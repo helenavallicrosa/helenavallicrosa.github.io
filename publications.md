@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+<style>body {text-align: justify}</style>
 ## 2023
 
 Sardans, J., Llusià, J., Ogaya, R., **Vallicrosa, H.**, Filella, I., Gargallo-Garriga, A., Peguero, G., Van Langenhove, L., Verryckt, L.T., Stahl, C., Courtois, E.A., Bréchet, L.M., Tariq, A., Zeng, F., Alrefaei, A.F., Wang, W., Janssens, I.A. and Peñuelas, J. (2023), [Foliar elementome and functional traits relationships identify tree species niche in French Guiana rainforests](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4118). **Ecology**. Accepted Author Manuscript e4118. https://doi.org/10.1002/ecy.4118
