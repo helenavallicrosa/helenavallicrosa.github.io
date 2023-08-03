@@ -9,21 +9,21 @@ To mitigate the global change we are facing, all the inhabitants of the Earth de
 
 ---
 
-**PRESS**
+### PRESS
 
 [Postdoc spotlight pride month - MIT CEE](https://cee.mit.edu/helena-vallicrosa-postdoc-spotlight-pride-month/)<br>
 Reflection on being part of the LGBTQIA+ community
 
 ---
 
-**TALKS**
+### TALKS
 
 [Vedruna - Tordera](https://www.vedrunatordera.org/)<br>
 To 10-year-old students. About the matter cycle and its implications for climate change. March, 17th 2022.
 
 ---
 
-**RADIO**
+### RADIO
 
 La tarda és a 3 bandes<br>
 Collaboration (Catalan). About women in science. May, 9th 2022.
@@ -42,7 +42,7 @@ Interview: What is my thesis about? (Catalan). Explaining the basis and implicat
 
 ---
 
-**VIDEO**
+### VIDEO
 
 [Ni hi ha ciència sense diversitat](https://www.youtube.com/watch?app=desktop&v=8nn4dMdkvhI)<br>
 No science without diversity (Catalan, Spanish, subtitles in English). Claim for a more diverse science to make it representative of all races, genders, 
@@ -50,9 +50,9 @@ cultural backgrounds, and physical capabilities.
 
 ---
 
-**WORKSHOPS**
+### WORKSHOPS
 
-[Climate Action Through Education (CATE)](https://ceepr.mit.edu/cate/)
+[Climate Action Through Education (CATE)](https://ceepr.mit.edu/cate/)<br>
 An exciting synergy of high school teachers and MIT scientists to implement climate change curricula in Massachusetts high schools. The project's pilot implementation starts in the fall of 2022.
 
 [Escolab](https://escolab.bcn.cat/en)<br>
