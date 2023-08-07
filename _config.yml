@@ -171,10 +171,10 @@ footer-img: "assets/img/footer%20-%20sujan-sundareswaran.jpg"  #roots
 #################################
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag:
+gtag: "G-1SBFYM0WF6"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-1SBFYM0WF6"
+# google_analytics: "G-1SBFYM0WF6"
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
