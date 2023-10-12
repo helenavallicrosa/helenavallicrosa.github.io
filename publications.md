@@ -9,6 +9,8 @@ Sardans, J., Llusià, J., Ogaya, R., **Vallicrosa, H.**, Filella, I., Gargallo-G
 
 **Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., Sardans, J., Ramirez-Rojas, I., Verbruggen, E., Grau, O., Bréchet, L., Peguero, G., Langenhove, L. V., Verryckt, L. T., Terrer, C., Llusià, J., Ogaya, R., Márquez, L., Roc-Fernández, P., Janssens, I., & Peñuelas, J. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://doi.org/10.1002/ecy.4049). **Ecology** 104(6): e4049.
 
+Dechant, B., Kattge, J., Pavlick, R., Schneider, F., Sabatini, F., Moreno-Martinez, A., Butler, E., Bodegom, P. v., **Vallicrosa, H.**, Kattenborn, T., Boonman, C., Madani, N., Wright, I., Dong, N., Feilhauer, H., Penuelas, J., Sardans, J., Aguirre-Gutierrez, J., Reich, P., Leitao, P., Cavender-Bares, J., Myers-Smith, I. H., Duran, S., Croft, H., Prentice, I. C., Huth, A., Rebel, K., Zaehle, S., Simova, I., Diaz, S., Reichstein, M., Schiller, C., Bruehlheide, H., Mahecha, M., Wirth, C., Malhi, Y., and Townsend, P. (2023): [Intercomparison of global foliar trait 470 maps reveals fundamental differences and limitations of upscaling approaches](https://eartharxiv.org/repository/view/5266/), **EarthArXiv**.
+
 ## 2022
 <style>body {text-align: justify}</style>
 **Vallicrosa, H.** (2022) [Beyond nitrogen and phosphorus.](https://www.nature.com/articles/s41559-022-01788-x#citeas) **Nature Ecology and Evolution**, 6, 1056-1057.
