@@ -4,10 +4,10 @@ title: About
 ---
 <style>body {text-align: justify}</style>
 
-I'm a researcher in terrestrial ecology interested in understanding the flow of elements through plant, soil, and atmosphere compartments and how these could change under global change scenarios and evaluating their impacts. My approaches are from local to global scale through both field experiments and computational science. R programmer!
+I'm a researcher in terrestrial ecology interested in understanding the flow of elements through plant, soil, and atmosphere compartments, how these could change under global change scenarios, and evaluating their impacts. My approaches are from local to global scale through both field experiments and computational science. R programmer!
 
 
-Currently, I'm a **postdoc** at the [Plant Ecology Research Lab](https://people.epfl.ch/helena.vallicrosa?lang=en) lab, at **École Polytechnique Fédélale de Lausanne** (EPFL), Switzerland. I am working to solve several questions:
+Currently, I'm a **postdoc** at the [Plant Ecology Research Lab](https://people.epfl.ch/helena.vallicrosa?lang=en) lab, at **École Polytechnique Fédélale de Lausanne** (EPFL), Switzerland and I am working on several questions:
 
 1. What is the interaction between climate and nitrogen deposition in European forests?
 2. How do drought and temperature affect the nitrogen cycle in grasslands?
