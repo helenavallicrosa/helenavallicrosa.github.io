@@ -6,7 +6,7 @@ title: About
 
 I'm a researcher in terrestrial ecology interested in understanding the flow of elements through plant, soil, and atmosphere compartments, how these could change under global change scenarios, and evaluating their impacts. My approaches are from local to global scale through both field experiments and computational science. R programmer!
 
-<img src="assets/img/worldcloud.png" style="vertical-align:middle"> 
+<img src="assets/img/worldcloud.png" style="vertical-align:middle" width="400" height="400"> 
 
 Currently, I'm a **postdoc** at the [Plant Ecology Research Lab](https://people.epfl.ch/helena.vallicrosa?lang=en) lab, at **École Polytechnique Fédélale de Lausanne** (EPFL), Switzerland and I am working on several questions:
 
