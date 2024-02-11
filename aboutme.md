@@ -9,7 +9,7 @@ I'm a researcher in terrestrial ecology interested in understanding the flow of 
 <div style="text-align: center;">
 <img src="assets/img/wc.jpg" style="vertical-align:middle" width="450" height="450">
 
-![image](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/fb9961a3-5f62-47d7-9208-15b8444616a1)
+![image](https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/img/wc.png)
 
 </div>
 
