@@ -8,6 +8,7 @@ I'm a researcher in terrestrial ecology interested in understanding the flow of 
 
 <div style="text-align: center;">
 <img src="assets/img/wc2.png" style="vertical-align:middle" width="450" height="450"> 
+<img src="assets/img/wc2.png" style="float:left; vertical-align:bottom; margin-right: 15px;" width="300" height="300">
 </div>
 
 Currently, I'm a **postdoc** at the [Plant Ecology Research Lab](https://people.epfl.ch/helena.vallicrosa?lang=en) lab, at **École Polytechnique Fédélale de Lausanne** (EPFL), Switzerland and I am working on several questions:
