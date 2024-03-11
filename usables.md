@@ -11,10 +11,12 @@ Portfolio of curated databases, maps and usables, ready to download.
 ## Maps
 
 #### Foliar N, P and K global upscaled maps in woody plants
-It contains global maps of foliar N, foliar P and foliar K in woody vegetation with its corresponding standard error map. 1 km resolution and .grd format. Originally published on Vallicrosa et al., 2021, New Phy (see Publications).
-<div style="text-align: center;">
-<img src="assets/img/NPK.jpeg" style="float:left; vertical-align:bottom; margin-right: 15px;" width="292.5" height="362">
+<p style="text-align: justify"> 
+  It contains global maps of foliar N, foliar P and foliar K in woody vegetation with its corresponding standard error map. 1 km resolution and .grd format. Originally published on Vallicrosa et al., 2021, New Phy (see Publications).
+
+  <img src="assets/img/NPK.jpeg" style="float:left; vertical-align:top; margin-right: 15px;" width="400" height="600"> </p>
 </div>
+
 Download from [Zenodo](https://zenodo.org/records/7825970)
 
 ---
