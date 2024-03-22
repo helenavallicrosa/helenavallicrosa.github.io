@@ -10,6 +10,8 @@ I'm a researcher in **terrestrial ecology** interested in understanding the flow
 
 Do you want to check my CV? Click <a href="https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/cv.pdf">here</a>
 
+---
+
 Currently, I'm a **postdoc** at the [Plant Ecology Research Lab](https://people.epfl.ch/helena.vallicrosa?lang=en) lab, at **École Polytechnique Fédérale de Lausanne** (EPFL), Switzerland and I am working on several questions:
 
 1. What is the interaction between climate and nitrogen deposition in European forests?
