@@ -1,4 +1,9 @@
-#hp  {
-float: left;    
- margin: 0 15px 0 0;
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900
+
+.vollkorn-<body> {
+  font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: <600>;
+  font-style: normal;
 }
