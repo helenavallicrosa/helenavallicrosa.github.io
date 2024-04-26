@@ -39,6 +39,8 @@ The [PDF presentation](https://github.com/helenavallicrosa/teaching/blob/main/Le
        a.	Intro, data types, vectors, matrices, data frames, and lists<br/>
        b.	Import and export data, play with data, and basic statistic models.<br/>
        c.	Loops, functions, good manners, and tricks<br/>
+
+Section available on [OpenCourseWare](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) or [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP602LxEgWcCyo89B2Q-zg8gm)
     
 Describe what R is and its characteristics, the different types of data, and data structures.
 Be able to use R to load and store data and use essential functions such as “subset”, “unique”, "hist”, "colnames”, "order” or "cbind”.
@@ -57,6 +59,8 @@ Use a one-box carbon model and a two-box carbon model in R.
        a.	Lecture with basic concepts<br/>
        b.	Vectorial maps, rasters, projection and resolution concepts, crop, stack, and brick <br/>
        c.	Extract information from maps using spatial data points<br/>
+       
+Section available on [OpenCourseWare](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) or [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP602LxEgWcCyo89B2Q-zg8gm)
     
 Explain the differences between raster and vectorial maps and the importance of the resolution and projection concepts.
 Use R to read and visualize raster and vectorial maps, and change projections and resolution.
