@@ -68,7 +68,7 @@ Use R to create stacks and crop maps.
 
 **4 -	Metanalysis - Cesar Terrer** <br/>
 
-**5 -**	[**Machine learning algorithms – Helena**](https://github.com/helenavallicrosa/teaching/blob/main/4.%20ML%20and%20upscaling_Beta.R) <br/>
+**5 -**	[**Machine learning algorithms**](https://github.com/helenavallicrosa/teaching/blob/main/4.%20ML%20and%20upscaling_Beta.R) <br/>
        a.	Introduction<br/>
        b.	Subsets selection<br/>
        c.	Select the best model<br/>
