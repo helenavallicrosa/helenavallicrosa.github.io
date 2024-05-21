@@ -23,7 +23,10 @@ To 10-year-old students. About the matter cycle and its implications for climate
 
 ---
 
-### RADIO
+### RADIO/PODCASTS
+
+[That's what I call science](https://thatsscience.org/2024/05/19/episode-236-elements-of-a-scientist/)<br>
+Episode 236 of the Tasmanian podcast TWICS. The hot, dry Mediterranean, the depths of the tropics and the computer screen, Dr Helena Vallicrosa works in a range of environments to understand how chemical elements, the building blocks of the earth, cycle through ecosystems. The ‘annoying kid’ who always asked questions, a lack of representation in science meant that Helena didn’t always think a career in science was available to her. Now Helena uses ‘big data’ to find patterns and answer big questions about where plants can live and why in the complex landscape of a changing climate. Listen to hear Helena break-down her research, motivations as a scientist, and a career in science (academia vs industry) into their core elements. May 2024.
 
 La tarda és a 3 bandes<br>
 Collaboration (Catalan). About women in science. May, 9th 2022.
