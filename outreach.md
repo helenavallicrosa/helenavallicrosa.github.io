@@ -12,7 +12,8 @@ To mitigate the global change we are facing, all the inhabitants of the Earth de
 ### RADIO/PODCASTS
 [El dia abans del col·lapse](https://open.spotify.com/episode/4y7CYOzeqofeORyjOJKmVx?si=FUIjcoiNTQOxhqp0ywgrtQ&nd=1&dlsi=82469db5fbfa45d0)<br>
 
-July 2024. Episode 2: Biodiversity Loss. A conversation about the importance of forests in the planetary equilibrium, soil contamination, planet and human health. ![Captura de pantalla 2024-07-11 a les 11 01 04](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/06bc9776-6b1e-4df8-b828-bb9abd89a7b0)
+<img align="right" width="33%" src="[https://i.sstatic.net/RJj4x.png](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/06bc9776-6b1e-4df8-b828-bb9abd89a7b0)">
+July 2024. Episode 2: Biodiversity Loss. A conversation about the importance of forests in the planetary equilibrium, soil contamination, planet and human health.
 
 [That's what I call science](https://thatsscience.org/2024/05/19/episode-236-elements-of-a-scientist/)<br>
 May 2024. Episode 236 of the Tasmanian podcast TWICS. The hot, dry Mediterranean, the depths of the tropics and the computer screen, Dr Helena Vallicrosa works in a range of environments to understand how chemical elements, the building blocks of the earth, cycle through ecosystems. The ‘annoying kid’ who always asked questions, a lack of representation in science meant that Helena didn’t always think a career in science was available to her. Now Helena uses ‘big data’ to find patterns and answer big questions about where plants can live and why in the complex landscape of a changing climate. Listen to hear Helena break-down her research, motivations as a scientist, and a career in science (academia vs industry) into their core elements.
