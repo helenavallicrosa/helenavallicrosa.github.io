@@ -11,7 +11,8 @@ To mitigate the global change we are facing, all the inhabitants of the Earth de
 
 ### RADIO/PODCASTS
 [El dia abans del col·lapse](https://open.spotify.com/episode/4y7CYOzeqofeORyjOJKmVx?si=FUIjcoiNTQOxhqp0ywgrtQ&nd=1&dlsi=82469db5fbfa45d0)<br>
-July 2024. Episode 2: Biodiversity Loss. A conversation about the importance of forests in the planetary equilibrium, soil contamination, planet and human health.
+
+July 2024. Episode 2: Biodiversity Loss. A conversation about the importance of forests in the planetary equilibrium, soil contamination, planet and human health. ![Captura de pantalla 2024-07-11 a les 11 01 04](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/06bc9776-6b1e-4df8-b828-bb9abd89a7b0)
 
 [That's what I call science](https://thatsscience.org/2024/05/19/episode-236-elements-of-a-scientist/)<br>
 May 2024. Episode 236 of the Tasmanian podcast TWICS. The hot, dry Mediterranean, the depths of the tropics and the computer screen, Dr Helena Vallicrosa works in a range of environments to understand how chemical elements, the building blocks of the earth, cycle through ecosystems. The ‘annoying kid’ who always asked questions, a lack of representation in science meant that Helena didn’t always think a career in science was available to her. Now Helena uses ‘big data’ to find patterns and answer big questions about where plants can live and why in the complex landscape of a changing climate. Listen to hear Helena break-down her research, motivations as a scientist, and a career in science (academia vs industry) into their core elements.
@@ -38,7 +39,8 @@ December 2021. Interview: What is my thesis about? (Catalan). Explaining the bas
 [Introduction to R and Geographical Information Systyems](https://www.youtube.com/playlist?list=PLUl4u3cNGP602LxEgWcCyo89B2Q-zg8gm)<br>
 Fall, 2023. MIT openCourseWare course. View the complete course [here](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/)
 
-The goal of these videos is to provide students with tools and concepts to work with R*. The students will learn the basics of R, how to navigate R interface and deal with different data formats, how to run and interpret linear models with R and how to use Geographical Information Systems (GIS) in R. These practical sessions were developed as part of the course 1.845 Terrestrial Carbon Cycle and Ecosystem Ecology but will be useful for anyone looking to learn about R and GIS.
+The goal of these videos is to provide students with tools and concepts to work with R*. The students will learn the basics of R, how to navigate R interface and deal with different data formats, how to run and interpret linear models with R and how to use Geographical Information Systems (GIS) in R. These practical sessions were developed as part of the course 1.845 Terrestrial Carbon Cycle and Ecosystem Ecology but will be useful for anyone looking to learn about R and GIS.![Captura de pantalla 2024-07-11 a les 11 00 04](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/65f717a5-9755-4beb-8167-b1f9c6b52815)
+
 
 [Ni hi ha ciència sense diversitat](https://www.youtube.com/watch?app=desktop&v=8nn4dMdkvhI)<br>
 No science without diversity (Catalan, Spanish, subtitles in English). Claim for a more diverse science to make it representative of all races, genders, 
