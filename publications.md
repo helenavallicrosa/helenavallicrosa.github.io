@@ -6,7 +6,7 @@ title: Publications
 ## 2024
 <style>body {text-align: justify}</style>
 
-**Vallicrosa, H.**, Johnson, K.M., Gessler, A., Etzold, S., Ferretti, M., Waldner, P., Grossiord, C. Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests. Available at [SSRN](https://ssrn.com/abstract=4908922) PREPRINT.
+**Vallicrosa, H.**, Johnson, K.M., Gessler, A., Etzold, S., Ferretti, M., Waldner, P., Grossiord, C. (2024) [Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests](https://doi.org/10.1016/j.scitotenv.2024.176904). **Science of the Total Environment**
 
 Dechant, B., Kattge, J., Pavlick, R., Schneider, F., Sabatini, F., Moreno-Martinez, A., Butler, E., Bodegom, P. v., **Vallicrosa, H.**, Kattenborn, T., Boonman, C., Madani, N., Wright, I., Dong, N., Feilhauer, H., Penuelas, J., Sardans, J., Aguirre-Gutierrez, J., Reich, P., Leitao, P., Cavender-Bares, J., Myers-Smith, I. H., Duran, S., Croft, H., Prentice, I. C., Huth, A., Rebel, K., Zaehle, S., Simova, I., Diaz, S., Reichstein, M., Schiller, C., Bruehlheide, H., Mahecha, M., Wirth, C., Malhi, Y., and Townsend, P. (2024): [Intercomparison of global foliar trait 470 maps reveals fundamental differences and limitations of upscaling approaches](https://www.sciencedirect.com/science/article/pii/S0034425724002943?via%3Dihub), **Remote Sensing of Environment**, 311, 1, 114276.
 
