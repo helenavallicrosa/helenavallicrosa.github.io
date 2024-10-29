@@ -11,7 +11,6 @@ To mitigate the global change we are facing, all the inhabitants of the Earth de
 
 ### RADIO/PODCASTS
 [El dia abans del col·lapse](https://open.spotify.com/episode/4y7CYOzeqofeORyjOJKmVx?si=FUIjcoiNTQOxhqp0ywgrtQ&nd=1&dlsi=82469db5fbfa45d0)<br>
-
 July 2024. Episode 2: Biodiversity Loss. A conversation about the importance of forests in the planetary equilibrium, soil contamination, planet and human health.<br>
 
 [That's what I call science](https://thatsscience.org/2024/05/19/episode-236-elements-of-a-scientist/)<br>
