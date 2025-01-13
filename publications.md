@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 <style>body {text-align: justify}</style>
+## 2025
+<style>body {text-align: justify}</style>
+Vallicrosa, H., Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Cerny, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C.: Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3661, 2025.
+
 ## 2024
 <style>body {text-align: justify}</style>
 
@@ -16,9 +20,6 @@ Yuan, J., Wu, F., Peng, C., Peñuelas, J., **Vallicrosa, H.**, Sardans, J., Peng
 Lugli, L.F., Fuchslueger, L., **Vallicrosa, H.**, Van Langenhove, L., Ranits, C., Roc Fernandez Garberi, P., Verryckt, L., Grau, O., Bréchet, L., Peguero, G., Llusia, J., Ogaya, R., Marquez, L., Portillo-Estrada, M., Ramirez-Rojas, I., Courtois, E., Stahl, C., Sardans, J., Penuelas, J., Verbruggen, E. and Ivan, J. (2024), [Contrasting responses of fine root biomass and traits to large-scale nitrogen and phosphorus addition in tropical forests in the Guiana shield.](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10412?af=R) **Oikos** e10412. https://doi.org/10.1111/oik.10412
 
 ## 2023
-<style>body {text-align: justify}</style>
-**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M. et al. [Nitrogen deposition and climate drive plant nitrogen uptake in terrestrial ecosystems](https://doi.org/10.21203/rs.3.rs-3462045/v1), 27 October 2023, PREPRINT (Version 1) available at Research Square
-
 Sardans, J., Llusià, J., Ogaya, R., **Vallicrosa, H.**, Filella, I., Gargallo-Garriga, A., Peguero, G., Van Langenhove, L., Verryckt, L.T., Stahl, C., Courtois, E.A., Bréchet, L.M., Tariq, A., Zeng, F., Alrefaei, A.F., Wang, W., Janssens, I.A. and Peñuelas, J. (2023), [Foliar elementome and functional traits relationships identify tree species niche in French Guiana rainforests](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4118). **Ecology**. 104(11): e4118. https://doi.org/10.1002/ecy.4118
 
 **Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., Sardans, J., Ramirez-Rojas, I., Verbruggen, E., Grau, O., Bréchet, L., Peguero, G., Langenhove, L. V., Verryckt, L. T., Terrer, C., Llusià, J., Ogaya, R., Márquez, L., Roc-Fernández, P., Janssens, I., & Peñuelas, J. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://doi.org/10.1002/ecy.4049). **Ecology** 104(6): e4049.
