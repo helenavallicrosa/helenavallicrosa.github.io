@@ -5,7 +5,7 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2025
 <style>body {text-align: justify}</style>
-Vallicrosa, H., Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Cerny, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C.: Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3661, 2025.
+**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Cerny, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C.: Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3661, 2025.
 
 ## 2024
 <style>body {text-align: justify}</style>
