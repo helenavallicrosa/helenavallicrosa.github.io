@@ -5,15 +5,15 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2025
 <style>body {text-align: justify}</style>
-**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Cerny, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C.: Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-3661, 2025.
+**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Cerny, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://doi.org/10.5194/egusphere-2024-3661), **EGUsphere [preprint]**
 
 ## 2024
 <style>body {text-align: justify}</style>
 
-**Vallicrosa, H.**, Johnson, K.M., Gessler, A., Etzold, S., Ferretti, M., Waldner, P., Grossiord, C. (2024) [Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests](https://doi.org/10.1016/j.scitotenv.2024.176904). **Science of the Total Environment**. DOI: https://doi.org/10.1016/j.scitotenv.2024.176904
+**Vallicrosa, H.**, Johnson, K.M., Gessler, A., Etzold, S., Ferretti, M., Waldner, P., Grossiord, C. (2024) [Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests](https://doi.org/10.1016/j.scitotenv.2024.176904). **Science of the Total Environment**, 955, 176904. https://doi.org/10.1016/j.scitotenv.2024.176904
 
 
-Dechant, B., Kattge, J., Pavlick, R., Schneider, F., Sabatini, F., Moreno-Martinez, A., Butler, E., Bodegom, P. v., **Vallicrosa, H.**, Kattenborn, T., Boonman, C., Madani, N., Wright, I., Dong, N., Feilhauer, H., Penuelas, J., Sardans, J., Aguirre-Gutierrez, J., Reich, P., Leitao, P., Cavender-Bares, J., Myers-Smith, I. H., Duran, S., Croft, H., Prentice, I. C., Huth, A., Rebel, K., Zaehle, S., Simova, I., Diaz, S., Reichstein, M., Schiller, C., Bruehlheide, H., Mahecha, M., Wirth, C., Malhi, Y., and Townsend, P. (2024): [Intercomparison of global foliar trait 470 maps reveals fundamental differences and limitations of upscaling approaches](https://www.sciencedirect.com/science/article/pii/S0034425724002943?via%3Dihub), **Remote Sensing of Environment**, 311, 1, 114276.
+Dechant, B., Kattge, J., Pavlick, R., Schneider, F., Sabatini, F., Moreno-Martinez, A., Butler, E., Bodegom, P. v., **Vallicrosa, H.**, Kattenborn, T., Boonman, C., Madani, N., Wright, I., Dong, N., Feilhauer, H., Penuelas, J., Sardans, J., Aguirre-Gutierrez, J., Reich, P., Leitao, P., Cavender-Bares, J., Myers-Smith, I. H., Duran, S., Croft, H., Prentice, I. C., Huth, A., Rebel, K., Zaehle, S., Simova, I., Diaz, S., Reichstein, M., Schiller, C., Bruehlheide, H., Mahecha, M., Wirth, C., Malhi, Y., and Townsend, P. (2024): [Intercomparison of global foliar trait maps reveals fundamental differences and limitations of upscaling approaches](https://www.sciencedirect.com/science/article/pii/S0034425724002943?via%3Dihub), **Remote Sensing of Environment**, 311, 1, 114276.
 
 Yuan, J., Wu, F., Peng, C., Peñuelas, J., **Vallicrosa, H.**, Sardans, J., Peng, Y., Wu, Q., Li, Z., Heděnec, P., Li, Z., Tan, S., Yuan, C., Ni, X., & Yue, K. (2024). [Global spectra of plant litter carbon, nitrogen and phosphorus concentrations and returning amounts.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14250) **Journal of Ecology**, 00, 1–13. https://doi.org/10.1111/1365-2745.14250
 
