@@ -10,6 +10,15 @@ Portfolio of curated databases, maps, and usables, ready to download.
 
 ## Maps
 
+#### Plant N uptake and N use efficiency maps 
+![Captura de pantalla 2025-01-21 a les 14 27 26](https://github.com/user-attachments/assets/bdef77a4-f7ee-48eb-90ab-c964a774988f)
+
+It contains a global map of plant N uptake and N use efficiency. 2 km resolution and .grd format. Originally published on Vallicrosa et al., 2025, Egusphere (see Publications).
+
+Download from [figshare](https://figshare.com/articles/figure/Nitrogen_uptake_and_nitrogen_use_efficiency_maps/28246754)
+
+Download from [Zenodo](https://zenodo.org/records/10854282)
+
 #### Foliar N:P in woody plants
 ![Captura de pantalla 2024-03-22 a les 16 03 48](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/140e797c-652d-4cc9-b26d-46c189e44a10)
 
