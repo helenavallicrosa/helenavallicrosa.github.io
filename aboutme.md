@@ -4,11 +4,11 @@ title: About
 ---
 <style>body {text-align: justify}</style>
 
-![wc](https://github.com/helenavallicrosa/helenavallicrosa.github.io/assets/105129252/5b692add-7627-4aea-80e8-d063d67300ee)
+![wordcloud (4)](https://github.com/user-attachments/assets/bdffed29-9a8b-4d8b-b39c-c33c59702ab5)
 
 I'm a researcher in **terrestrial ecology** interested in understanding the flow of **elements** [N,P,K...] through plant, soil, and atmosphere compartments, how these could be affected by **global change**, and evaluating their impacts. My approaches are from local to global scale through both **field experiments** and **computational science**. R programmer!
 
-Do you want to check my CV? Click <a href="https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/HV - Scientific CV - may24.pdf">here</a>
+Do you want to check my CV? Click <a href="https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/HV - Scientific CV - feb25.pdf">here</a>
 
 ---
 
