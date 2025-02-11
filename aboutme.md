@@ -4,7 +4,7 @@ title: About
 ---
 <style>body {text-align: justify}</style>
 
-![wordcloud (4)](https://github.com/user-attachments/assets/bdffed29-9a8b-4d8b-b39c-c33c59702ab5)
+![wordcloud (4)](https://github.com/user-attachments/assets/4f2d853f-dffd-49ee-8ed1-38590789ce46)
 
 I'm a researcher in **terrestrial ecology** interested in understanding the flow of **elements** [N,P,K...] through plant, soil, and atmosphere compartments, how these could be affected by **global change**, and evaluating their impacts. My approaches are from local to global scale through both **field experiments** and **computational science**. R programmer!
 
