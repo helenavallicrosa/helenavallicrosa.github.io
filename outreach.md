@@ -64,7 +64,7 @@ March, 2022. To 10-year-old students. About the matter cycle and its implication
 
 ### WORKSHOPS
 
-[Climate Action Through Education (CATE)](https://ceepr.mit.edu/cate/)<br>
+[Climate Action Through Education (CATE)](https://cate.mit.edu/)<br>
 Fall, 2022. An exciting synergy of high school teachers and MIT scientists to implement climate change curricula in Massachusetts high schools. The project's pilot implementation starts in the fall of 2022.
 
 [Escolab](https://escolab.bcn.cat/en)<br>
