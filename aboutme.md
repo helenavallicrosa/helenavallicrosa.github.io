@@ -9,7 +9,7 @@ title: About
 
 I'm a researcher in **terrestrial ecology** interested in understanding the flow of **elements** [N,P,K...] through plant, soil, and atmosphere compartments, how these could be affected by **global change**, and evaluating their impacts. My approaches are from local to global scale through both **field experiments** and **computational science**. R programmer!
 
-Do you want to check my CV? Click <a href="https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/HV - Scientific CV - feb25.pdf">here</a>
+Do you want to check my CV? Click <a href="https://github.com/helenavallicrosa/helenavallicrosa.github.io/blob/master/assets/CV - August25.pdf">here</a>
 
 ---
 
