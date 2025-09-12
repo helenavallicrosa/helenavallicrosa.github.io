@@ -7,6 +7,9 @@ subtitle: Audiovisual miscellany
 Gathering of audiovisual material of all sorts related to science I have participated in.
 
 ---
+#### Presentation: The role of plant–soil–microbe interactions on nitrogen cycling under drought and warming in grasslands
+
+Presentation on the New Phythologist Symposia "Microbes as hidden or prominent players in plant life". Short presentation where I disclose my last experimental results. Check the [Video](https://cassyni.com/events/8NYketQ3JdK2JPuUVndMk1/seminar/abstract)
 
 ### Teaching: Introduction to R and Geographic Information Systems (GIS)
 
