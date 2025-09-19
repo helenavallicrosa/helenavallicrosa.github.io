@@ -5,6 +5,7 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2025
 <style>body {text-align: justify}</style>
+Werner, C., Bahn, M., Grams, T.E.E., Grossiord, C., Haberstroh, S., Lenczner, G., Tuia, D. and **Vallicrosa, H**. (2025), [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biol J**. https://doi.org/10.1111/plb.70080
 
 **Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Černý, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://esd.copernicus.org/articles/16/1183/2025/), **Earth Syst. Dynam.**, 16, 1183–1196, https://doi.org/10.5194/esd-16-1183-2025
 
