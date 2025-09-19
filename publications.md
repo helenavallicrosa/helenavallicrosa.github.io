@@ -50,7 +50,7 @@ Sardans, J., **Vallicrosa, H.**, Zuccarini, P. et al. (2021)
 <style>body {text-align: justify}</style>
 Li, X., Sardans, J., Gargallo-Garriga, A., Asensio, D., **Vallicrosa, H.**, Peñuelas, J. (2020) [Nitrogen reduction processes in paddy soils across climatic gradients: Key controlling factors and environmental implications.](https://doi.org/10.1016/j.geoderma.2020.114275) **Geoderma**, 368, 114275.
 
-Penuelas, J., Fernández-Martínez, M., **Vallicrosa, H.** et al. (2020) [Increasing atmospheric CO2 concentrations correlate with declining nutritional status of European forests.](https://doi.org/10.1038/s42003-020-0839-y) **Communications Biology** 3, 125.
+Penuelas, J., Fernández-Martínez, M., **Vallicrosa, H.**, Maspons, J., Zuccarini, P., Carnicer, J., Sanders, T.G.M., Krüger, I., Obersteiner, M., Janssens, I.A., Ciais, P., and Sardans, J. (2020) [Increasing atmospheric CO2 concentrations correlate with declining nutritional status of European forests.](https://doi.org/10.1038/s42003-020-0839-y) **Communications Biology** 3, 125.
 
 ## 2019
 <style>body {text-align: justify}</style>
