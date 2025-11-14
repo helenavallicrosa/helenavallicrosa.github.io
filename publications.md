@@ -5,6 +5,10 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2025
 <style>body {text-align: justify}</style>
+Ferrín, M., Peñuelas, J., Asensio, D. et al. [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://authors.elsevier.com/c/1m61Q3JGmRQVP1). Applied Soil Ecology (2026). 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
+
+Yang, K., Llusià, J., Mu, Z. et al. [Soil-atmosphere terpene exchanges in the tropical forest of French Guiana with nitrogen and phosphorus fertilizer application](https://link.springer.com/article/10.1007/s11104-025-07915-4). Plant Soil (2025). https://doi.org/10.1007/s11104-025-07915-4
+
 Werner, C., Bahn, M., Grams, T.E.E., Grossiord, C., Haberstroh, S., Lenczner, G., Tuia, D. and **Vallicrosa, H**. (2025), [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biol J**. https://doi.org/10.1111/plb.70080
 
 **Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Černý, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://esd.copernicus.org/articles/16/1183/2025/), **Earth Syst. Dynam.**, 16, 1183–1196, https://doi.org/10.5194/esd-16-1183-2025
