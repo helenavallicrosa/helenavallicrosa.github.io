@@ -5,9 +5,9 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2026
 <style>body {text-align: justify}</style>
-Lai, Y., Y. Lin, H. Lambers, et al. 2026. “ [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368).” Plant, Cell & Environment 0: 1–3. https://doi.org/10.1111/pce.70368.
+Lai, Y., Y. Lin, H. Lambers,Y. Xiao, **H. Vallicrosa**, L. Zhang, J. Liu and Y. Kuang. [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 0: 1–3. https://doi.org/10.1111/pce.70368.
 
-Ferrín, M., Peñuelas, J., Asensio, D. et al. [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). Applied Soil Ecology (2026). 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
+Ferrín, M., Peñuelas, J., Asensio, D. et al. [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). **Applied Soil Ecology** (2026). 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
 
 ## 2025
 Yang, K., Llusià, J., Mu, Z. et al. [Soil-atmosphere terpene exchanges in the tropical forest of French Guiana with nitrogen and phosphorus fertilizer application](https://link.springer.com/article/10.1007/s11104-025-07915-4). Plant Soil (2025). https://doi.org/10.1007/s11104-025-07915-4
