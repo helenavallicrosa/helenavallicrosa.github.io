@@ -5,6 +5,8 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2026
 <style>body {text-align: justify}</style>
+**Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant Soil** (2026). https://doi.org/10.1007/s11104-026-08471-1
+
 Lai, Y., Y. Lin, H. Lambers,Y. Xiao, **H. Vallicrosa**, L. Zhang, J. Liu and Y. Kuang. [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 49: 2045–2047 https://doi.org/10.1111/pce.70368.
 
 Ferrín, M., Peñuelas, J., Asensio, D. et al. [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). **Applied Soil Ecology** (2026). 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
