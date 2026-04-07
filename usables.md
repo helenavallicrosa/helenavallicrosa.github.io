@@ -35,6 +35,11 @@ Download from [Zenodo](https://zenodo.org/records/7825970)
 
 ## Databases
 
+#### Comparative dataset of plant thermal tolerance in temperate and tropical regions
+Methodologically harmonized global database of plant thermal tolerance. The dataset focuses exclusively on T50 values derived from ex vivo water-bath experiments combined with chlorophyll fluorescence Fv/Fm measurements, thereby minimizing methodological noise associated with alternative approaches. We curated data from 44 published studies (~58% of the data), integrated unpublished datasets (~34% of the data), and complemented these with new field measurements across temperate regions (~8%). All records were carefully reconciled and annotated for taxonomy, experimental protocol, and metadata, including heat exposure duration, recovery time, growth conditions, sampling context, and climatic background. This resulting database contains 3253 T50 observations spanning 923 species and 160 plant families, covering a broad range of temperate and tropical biomes.
+
+Download from [Figshare](https://figshare.com/articles/dataset/_b_Comparative_dataset_of_plant_thermal_tolerance_in_temperate_and_tropical_regions_b_/31456846?file=62701252)
+
 #### Growth and foliar elemental composition in French Guyana
 Measurements after a 3-year N, P, and N+P addition in French Guyana. Collected in 2019 and originally published in Vallicrosa et al., 2023, Ecology (see Publications). Data in .cvs format, including data from 65 different species.
 
