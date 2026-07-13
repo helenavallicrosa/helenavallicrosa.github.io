@@ -5,38 +5,38 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2026
 <style>body {text-align: justify}</style>
-Xu, WY., Gessler, A., Peñuelas, J. et al. [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nat Ecol Evol** (2026). https://doi.org/10.1038/s41559-026-03129-8
+Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**. https://doi.org/10.1038/s41559-026-03129-8
 
-**Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant Soil** (2026). https://doi.org/10.1007/s11104-026-08471-1
+**Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. (2026) [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant Soil**. https://doi.org/10.1007/s11104-026-08471-1
 
-Lai, Y., Y. Lin, H. Lambers,Y. Xiao, **H. Vallicrosa**, L. Zhang, J. Liu and Y. Kuang. [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 49: 2045–2047 https://doi.org/10.1111/pce.70368.
+Lai, Y., Y. Lin, H. Lambers,Y. et al. (2026) [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 49: 2045–2047 https://doi.org/10.1111/pce.70368.
 
-Ferrín, M., Peñuelas, J., Asensio, D. et al. [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). **Applied Soil Ecology** (2026). 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
+Ferrín, M., Peñuelas, J., Asensio, D. et al. (2026) [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). **Applied Soil Ecology**. 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
 
 ## 2025
-Yang, K., Llusià, J., Mu, Z. et al. [Soil-atmosphere terpene exchanges in the tropical forest of French Guiana with nitrogen and phosphorus fertilizer application](https://link.springer.com/article/10.1007/s11104-025-07915-4). **Plant and Soil** (2025). https://doi.org/10.1007/s11104-025-07915-4
+Yang, K., Llusià, J., Mu, Z. et al. (2025) [Soil-atmosphere terpene exchanges in the tropical forest of French Guiana with nitrogen and phosphorus fertilizer application](https://link.springer.com/article/10.1007/s11104-025-07915-4). **Plant and Soil**. https://doi.org/10.1007/s11104-025-07915-4
 
-Werner, C., Bahn, M., Grams, T.E.E., Grossiord, C., Haberstroh, S., Lenczner, G., Tuia, D. and **Vallicrosa, H**. (2025), [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biol J**. https://doi.org/10.1111/plb.70080
+Werner, C., Bahn, M., Grams, T.E.E., et al. (2025) [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biol J** (2025). https://doi.org/10.1111/plb.70080
 
-**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., Fernández-Martínez, M., Černý, J., Tian, D., Kourmouli, A., Mayoral, C., Grados, D., Lu, M., and Terrer, C. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://esd.copernicus.org/articles/16/1183/2025/), **Earth Syst. Dynam.**, 16, 1183–1196, https://doi.org/10.5194/esd-16-1183-2025
+**Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., et al. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://esd.copernicus.org/articles/16/1183/2025/), **Earth System Dynamics** 16, 1183–1196, https://doi.org/10.5194/esd-16-1183-2025
 
-Johnson, K.M., Brown, M.J.M., Bandow, K.I. and **Vallicrosa, H.** (2025). [Cones and consequences: the false dichotomy of conifers vs broad-leaves has critical implications for research and modelling](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70136). **New Phytologist**. https://doi.org/10.1111/nph.70136
+Johnson, K.M., Brown, M.J.M., Bandow, K.I. and **Vallicrosa, H.** (2025) [Cones and consequences: the false dichotomy of conifers vs broad-leaves has critical implications for research and modelling](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70136). **New Phytologist** https://doi.org/10.1111/nph.70136
 
 ## 2024
 <style>body {text-align: justify}</style>
 
-**Vallicrosa, H.**, Johnson, K.M., Gessler, A., Etzold, S., Ferretti, M., Waldner, P., Grossiord, C. (2024) [Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests](https://doi.org/10.1016/j.scitotenv.2024.176904). **Science of the Total Environment**, 955, 176904. https://doi.org/10.1016/j.scitotenv.2024.176904
+**Vallicrosa, H.**, Johnson, K.M., Gessler, et al. (2024) [Temperature and Leaf Form Drive Contrasting Sensitivity to Nitrogen Deposition Across European Forests](https://doi.org/10.1016/j.scitotenv.2024.176904). **Science of the Total Environment**, 955, 176904. https://doi.org/10.1016/j.scitotenv.2024.176904
 
-Dechant, B., Kattge, J., Pavlick, R., Schneider, F., Sabatini, F., Moreno-Martinez, A., Butler, E., Bodegom, P. v., **Vallicrosa, H.**, Kattenborn, T., Boonman, C., Madani, N., Wright, I., Dong, N., Feilhauer, H., Penuelas, J., Sardans, J., Aguirre-Gutierrez, J., Reich, P., Leitao, P., Cavender-Bares, J., Myers-Smith, I. H., Duran, S., Croft, H., Prentice, I. C., Huth, A., Rebel, K., Zaehle, S., Simova, I., Diaz, S., Reichstein, M., Schiller, C., Bruehlheide, H., Mahecha, M., Wirth, C., Malhi, Y., and Townsend, P. (2024): [Intercomparison of global foliar trait maps reveals fundamental differences and limitations of upscaling approaches](https://www.sciencedirect.com/science/article/pii/S0034425724002943?via%3Dihub), **Remote Sensing of Environment**, 311, 1, 114276.
+Dechant, B., Kattge, J., Pavlick, R., et al. (2024): [Intercomparison of global foliar trait maps reveals fundamental differences and limitations of upscaling approaches](https://www.sciencedirect.com/science/article/pii/S0034425724002943?via%3Dihub), **Remote Sensing of Environment**, 311, 1, 114276.
 
-Yuan, J., Wu, F., Peng, C., Peñuelas, J., **Vallicrosa, H.**, Sardans, J., Peng, Y., Wu, Q., Li, Z., Heděnec, P., Li, Z., Tan, S., Yuan, C., Ni, X., & Yue, K. (2024). [Global spectra of plant litter carbon, nitrogen and phosphorus concentrations and returning amounts.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14250) **Journal of Ecology**, 00, 1–13. https://doi.org/10.1111/1365-2745.14250
+Yuan, J., Wu, F., Peng, C., et al. (2024). [Global spectra of plant litter carbon, nitrogen and phosphorus concentrations and returning amounts.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.14250) **Journal of Ecology**, 00, 1–13. https://doi.org/10.1111/1365-2745.14250
 
-Lugli, L.F., Fuchslueger, L., **Vallicrosa, H.**, Van Langenhove, L., Ranits, C., Roc Fernandez Garberi, P., Verryckt, L., Grau, O., Bréchet, L., Peguero, G., Llusia, J., Ogaya, R., Marquez, L., Portillo-Estrada, M., Ramirez-Rojas, I., Courtois, E., Stahl, C., Sardans, J., Penuelas, J., Verbruggen, E. and Ivan, J. (2024), [Contrasting responses of fine root biomass and traits to large-scale nitrogen and phosphorus addition in tropical forests in the Guiana shield.](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10412?af=R) **Oikos** e10412. https://doi.org/10.1111/oik.10412
+Lugli, L.F., Fuchslueger, L., **Vallicrosa, H.**, et al. (2024), [Contrasting responses of fine root biomass and traits to large-scale nitrogen and phosphorus addition in tropical forests in the Guiana shield.](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10412?af=R) **Oikos** e10412. https://doi.org/10.1111/oik.10412
 
 ## 2023
-Sardans, J., Llusià, J., Ogaya, R., **Vallicrosa, H.**, Filella, I., Gargallo-Garriga, A., Peguero, G., Van Langenhove, L., Verryckt, L.T., Stahl, C., Courtois, E.A., Bréchet, L.M., Tariq, A., Zeng, F., Alrefaei, A.F., Wang, W., Janssens, I.A. and Peñuelas, J. (2023), [Foliar elementome and functional traits relationships identify tree species niche in French Guiana rainforests](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4118). **Ecology**. 104(11): e4118. https://doi.org/10.1002/ecy.4118
+Sardans, J., Llusià, J., Ogaya, R., et al. (2023), [Foliar elementome and functional traits relationships identify tree species niche in French Guiana rainforests](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4118). **Ecology**. 104(11): e4118. https://doi.org/10.1002/ecy.4118
 
-**Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., Sardans, J., Ramirez-Rojas, I., Verbruggen, E., Grau, O., Bréchet, L., Peguero, G., Langenhove, L. V., Verryckt, L. T., Terrer, C., Llusià, J., Ogaya, R., Márquez, L., Roc-Fernández, P., Janssens, I., & Peñuelas, J. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://doi.org/10.1002/ecy.4049). **Ecology** 104(6): e4049.
+**Vallicrosa, H.**, Lugli, L.F., Fuchslueger, L., et al. (2023) [Phosphorus Scarcity Contributes to Nitrogen Limitation in Lowland Tropical Rainforests](https://doi.org/10.1002/ecy.4049). **Ecology** 104(6): e4049. **TOP VIEWED ARTICLE**
 
 ## 2022
 <style>body {text-align: justify}</style>
@@ -44,13 +44,13 @@ Sardans, J., Llusià, J., Ogaya, R., **Vallicrosa, H.**, Filella, I., Gargallo-G
 
 **Vallicrosa, H.**, Sardans, J., Maspons, J., & Peñuelas, J. (2022) [Global distribution and drivers of forest biome foliar nitrogen to phosphorus ratios (N:P).](https://doi.org/10.1111/geb.13457) **Global Ecology and Biogeography**, 31, 861– 871.
  
-**Vallicrosa, H.**, Sardans, J., Maspons, J., Zuccarini, P., Fernández-Martínez, M., Bauters, M., Goll, D.S., Ciais, P., Obersteiner, M., Janssens, I.A., Peñuelas, J. (2022) [Global maps and factors driving forest foliar elemental composition: the importance of evolutionary history.](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17771) **New Phytologist**, Jan; 233(1):169-181.
+**Vallicrosa, H.**, Sardans, J., Maspons, J., et al. (2022) [Global maps and factors driving forest foliar elemental composition: the importance of evolutionary history.](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17771) **New Phytologist**, Jan; 233(1):169-181.
 
-Verryckt, L. T., Vicca, S., Van Langenhove, L., Stahl, C., Asensio, D., Urbina, I., Ogaya, R., Llusià, J., Grau, O., Peguero, G., Gargallo-Garriga, A., Courtois, E. A., Margalef, O., Portillo-Estrada, M., Ciais, P., Obersteiner, M., Fuchslueger, L., Lugli, L. F., Fernandez-Garberí, P.-R., **Vallicrosa, H.**, Verlinden, M., Ranits, C., Vermeir, P., Coste, S., Verbruggen, E., Bréchet, L., Sardans, J., Chave, J., Peñuelas, J., and Janssens, I. A. (2022)[Vertical profiles of leaf photosynthesis and leaf traits and soil nutrients in two tropical rainforests in French Guiana before and after a 3-year nitrogen and phosphorus addition experiment](https://essd.copernicus.org/articles/14/5/2022/#&gid=1&pid=1) **Earth System Science Data**, 14, 5–18.
+Verryckt, L. T., Vicca, S., Van Langenhove, L., et al. (2022)[Vertical profiles of leaf photosynthesis and leaf traits and soil nutrients in two tropical rainforests in French Guiana before and after a 3-year nitrogen and phosphorus addition experiment](https://essd.copernicus.org/articles/14/5/2022/#&gid=1&pid=1) **Earth System Science Data**, 14, 5–18.
 
 ## 2021
  <style>body {text-align: justify}</style>
-Van Langenhove, L., Depaepe, T., Verryckt, L. T., **Vallicrosa, H.**, Fuchslueger, L., Lugli, L. F., et al. (2021) [Impact of nutrient additions on free-living nitrogen fixation in litter and soil of two French-Guianese lowland tropical forests.](https://doi.org/10.1029/2020JG006023 ) Journal of Geophysical Research: **Biogeosciences**, 126, e2020JG006023.
+Van Langenhove, L., Depaepe, T., Verryckt, L. T., et al. (2021) [Impact of nutrient additions on free-living nitrogen fixation in litter and soil of two French-Guianese lowland tropical forests.](https://doi.org/10.1029/2020JG006023 ) Journal of Geophysical Research: **Biogeosciences**, 126, e2020JG006023.
   
 **Vallicrosa, H.**; Sardans, J.; Ogaya, R.; Fernández, P.R.; Peñuelas, J. (2021) [Short-Term N-Fertilization Differently Affects the Leaf and Leaf Litter Chemistry of the Dominant Species in a Mediterranean Forest under Drought Conditions.](https://doi.org/10.3390/f12050605 ) **Forests**, 12, 605.
 
@@ -61,7 +61,7 @@ Sardans, J., **Vallicrosa, H.**, Zuccarini, P. et al. (2021)
 <style>body {text-align: justify}</style>
 Li, X., Sardans, J., Gargallo-Garriga, A., Asensio, D., **Vallicrosa, H.**, Peñuelas, J. (2020) [Nitrogen reduction processes in paddy soils across climatic gradients: Key controlling factors and environmental implications.](https://doi.org/10.1016/j.geoderma.2020.114275) **Geoderma**, 368, 114275.
 
-Penuelas, J., Fernández-Martínez, M., **Vallicrosa, H.**, Maspons, J., Zuccarini, P., Carnicer, J., Sanders, T.G.M., Krüger, I., Obersteiner, M., Janssens, I.A., Ciais, P., and Sardans, J. (2020) [Increasing atmospheric CO2 concentrations correlate with declining nutritional status of European forests.](https://doi.org/10.1038/s42003-020-0839-y) **Communications Biology** 3, 125.
+Penuelas, J., Fernández-Martínez, M., **Vallicrosa, H.**, et al. (2020) [Increasing atmospheric CO2 concentrations correlate with declining nutritional status of European forests.](https://doi.org/10.1038/s42003-020-0839-y) **Communications Biology** 3, 125.
 
 ## 2019
 <style>body {text-align: justify}</style>
