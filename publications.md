@@ -54,8 +54,7 @@ Van Langenhove, L., Depaepe, T., Verryckt, L. T., et al. (2021) [Impact of nutri
   
 **Vallicrosa, H.**; Sardans, J.; Ogaya, R.; Fernández, P.R.; Peñuelas, J. (2021) [Short-Term N-Fertilization Differently Affects the Leaf and Leaf Litter Chemistry of the Dominant Species in a Mediterranean Forest under Drought Conditions.](https://doi.org/10.3390/f12050605 ) **Forests**, 12, 605.
 
-Sardans, J., **Vallicrosa, H.**, Zuccarini, P. et al. (2021)
-[Empirical support for the biogeochemical niche hypothesis in forest trees.](https://doi.org/10.1038/s41559-020-01348-1) **Nature Ecology Evolution**, 5, 184–194.
+Sardans, J., **Vallicrosa, H.**, Zuccarini, P. et al. (2021)[Empirical support for the biogeochemical niche hypothesis in forest trees.](https://doi.org/10.1038/s41559-020-01348-1) **Nature Ecology Evolution**, 5, 184–194.
 
 ## 2020
 <style>body {text-align: justify}</style>
