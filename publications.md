@@ -5,6 +5,8 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2026
 <style>body {text-align: justify}</style>
+Tan, S., J. M. Chen, X. Huang, et al. (2026) [Topography Dependence of Terrestrial Litter-Derived Soil Respiration](http://dx.doi.org/10.1111/gcb.71011). **Global Change Biology** 32, no. 7: e71011. https://doi.org/10.1111/gcb.71011.
+
 Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**. https://doi.org/10.1038/s41559-026-03129-8
 
 **Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. (2026) [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant Soil**. https://doi.org/10.1007/s11104-026-08471-1
