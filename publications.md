@@ -9,7 +9,7 @@ Tan, S., J. M. Chen, X. Huang, et al. (2026) [Topography Dependence of Terrestri
 
 Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**. https://doi.org/10.1038/s41559-026-03129-8
 
-**Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. (2026) [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant Soil**. https://doi.org/10.1007/s11104-026-08471-1
+**Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. (2026) [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant and Soil**. https://doi.org/10.1007/s11104-026-08471-1
 
 Lai, Y., Y. Lin, H. Lambers,Y. et al. (2026) [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 49: 2045–2047 https://doi.org/10.1111/pce.70368.
 
