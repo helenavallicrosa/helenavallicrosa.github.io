@@ -9,22 +9,22 @@ Bortolami, G., Schaub, M., Gisler, J., et al. (2026) [Canopy-scale VPD reduction
 
 Tan, S., Chen, J. M., Huang, X., et al. (2026) [Topography Dependence of Terrestrial Litter-Derived Soil Respiration](http://dx.doi.org/10.1111/gcb.71011). **Global Change Biology** 32, no. 7: e71011. https://doi.org/10.1111/gcb.71011.
 
-Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**. https://doi.org/10.1038/s41559-026-03129-8
+Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**, 10, 1658–1670. https://doi.org/10.1038/s41559-026-03129-8
 
 **Vallicrosa, H.**, Mariotte, P., Hagedorn, F. et al. (2026) [Drought and warming enhance the risk of nitrogen losses in intensively managed grasslands](https://rdcu.be/e88Cm). **Plant and Soil**. https://doi.org/10.1007/s11104-026-08471-1
 
-Lai, Y., Y. Lin, H. Lambers,Y. et al. (2026) [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** (2026) 49: 2045–2047 https://doi.org/10.1111/pce.70368.
+Lai, Y., Y. Lin, H. Lambers,Y. et al. (2026) [Contrasting Leaf Phosphorus-Allocation Strategies Between Subtropical and Temperate Oaks](https://onlinelibrary.wiley.com/doi/10.1111/pce.70368). **Plant, Cell & Environment** 49: 2045–2047 https://doi.org/10.1111/pce.70368.
 
 Ferrín, M., Peñuelas, J., Asensio, D. et al. (2026) [Beyond N and P fertilization: Tropical ground hexapod communities are tied to micronutrients](https://www.sciencedirect.com/science/article/pii/S0929139325007425). **Applied Soil Ecology**. 217, 106604, https://doi.org/10.1016/j.apsoil.2025.106604.
 
 ## 2025
 Yang, K., Llusià, J., Mu, Z. et al. (2025) [Soil-atmosphere terpene exchanges in the tropical forest of French Guiana with nitrogen and phosphorus fertilizer application](https://link.springer.com/article/10.1007/s11104-025-07915-4). **Plant and Soil**. https://doi.org/10.1007/s11104-025-07915-4
 
-Werner, C., Bahn, M., Grams, T.E.E., et al. (2025) [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biol J** (2025). https://doi.org/10.1111/plb.70080
+Werner, C., Bahn, M., Grams, T.E.E., et al. (2025) [Impact of emerging compound droughts on forests: A water supply and demand perspective](https://onlinelibrary.wiley.com/doi/full/10.1111/plb.70080#). **Plant Biology Journal**, 28: 561-577. https://doi.org/10.1111/plb.70080
 
 **Vallicrosa, H.**, Fleischer, K., Delgado-Baquerizo, M., et al. (2025) [Nitrogen deposition and climate drive plant nitrogen uptake while soil factors drive nitrogen use efficiency in terrestrial ecosystems](https://esd.copernicus.org/articles/16/1183/2025/), **Earth System Dynamics** 16, 1183–1196, https://doi.org/10.5194/esd-16-1183-2025
 
-Johnson, K.M., Brown, M.J.M., Bandow, K.I. and **Vallicrosa, H.** (2025) [Cones and consequences: the false dichotomy of conifers vs broad-leaves has critical implications for research and modelling](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70136). **New Phytologist** https://doi.org/10.1111/nph.70136
+Johnson, K.M., Brown, M.J.M., Bandow, K.I. and **Vallicrosa, H.** (2025) [Cones and consequences: the false dichotomy of conifers vs broad-leaves has critical implications for research and modelling](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.70136). **New Phytologist**, 247: 33-39 https://doi.org/10.1111/nph.70136
 
 ## 2024
 <style>body {text-align: justify}</style>
