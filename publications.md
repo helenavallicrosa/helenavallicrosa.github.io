@@ -5,7 +5,9 @@ title: Publications
 <style>body {text-align: justify}</style>
 ## 2026
 <style>body {text-align: justify}</style>
-Tan, S., J. M. Chen, X. Huang, et al. (2026) [Topography Dependence of Terrestrial Litter-Derived Soil Respiration](http://dx.doi.org/10.1111/gcb.71011). **Global Change Biology** 32, no. 7: e71011. https://doi.org/10.1111/gcb.71011.
+Bortolami, G., Schaub, M., Gisler, J., et al. (2026) [Canopy-scale VPD reduction in a mature forest alters stomatal response to soil drought in Pinus sylvestris L.](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.71640) **New Phytologist** https://doi.org/10.1111/nph.71640
+
+Tan, S., Chen, J. M., Huang, X., et al. (2026) [Topography Dependence of Terrestrial Litter-Derived Soil Respiration](http://dx.doi.org/10.1111/gcb.71011). **Global Change Biology** 32, no. 7: e71011. https://doi.org/10.1111/gcb.71011.
 
 Xu, WY., Gessler, A., Peñuelas, J. et al. (2026) [Evolutionary history drives organ-specific variability in plant non-structural carbohydrates](https://rdcu.be/ftznK). **Nature Ecology Evolution**. https://doi.org/10.1038/s41559-026-03129-8
 
